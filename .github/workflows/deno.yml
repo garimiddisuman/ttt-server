@@ -44,5 +44,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "g-suman-ttt-server-61"
-          entrypoint: "src/server.js"
+          entrypoint: "server.js"
           root: "."
